@@ -1,0 +1,377 @@
+*{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+.head{
+    height: 500px;
+    background-image: url("back.jpg");
+    background-size: cover;
+
+}
+.logo{
+    height: 70px;
+    width: 150px;
+    background-image: url("netlogo.jpg");
+    background-size: cover;
+    margin:0px 0px 0px 100px ;
+    /* padding-top: ; */
+}
+.but1{
+    height: 15px;
+    width: 65px;
+    color: white;
+    background-color: red;
+    /* align-items: center; */
+    /* margin-right: 0px; */
+    margin-top: 0.87rem;
+    font-weight:lighter;
+    padding-left:0.8rem ;
+    padding-top:0.5rem ;
+    padding-bottom: 0.2rem;
+}
+.head1{
+    display: flex;
+    justify-content: space-around;
+}
+.mainh{
+    height: 25px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+    /* font-weight: 80; */
+}
+.mainh2{
+    height: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
+.mainh3{
+    height: 16px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.mainh4{
+    height: 38px;
+    width: 300px;
+    background-color: #0f1111;
+    color: white;
+    border-radius: 0.2rem;
+    border: 0.1px solid white;
+}
+.mainh5{
+    height: 42px;
+    width: 150px;
+    background-color: red;
+    color: white;
+    border-radius: 0.2rem;
+    border: 0.1px solid red;
+}
+.head3{
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.border{
+    border: 0.3rem solid rgb(37, 31, 31);
+}
+
+.borh1{
+    height: 400px;
+    background-color: #0f1111;
+}
+.borh4{
+    color: white;
+    padding-left: 300px;
+    padding-top: 150px;
+}
+.borh5{
+    color: white;
+    padding-left: 300px;
+    margin-top: 1.3rem;
+}
+.borh6{
+    color: white;
+    padding-left: 300px;
+    margin-top: 0.4rem;
+}
+.border2{
+    border: 0.3rem solid rgb(37, 31, 31);
+}
+.borh7{
+    height: 400px;
+    background-color: #0f1111;
+}
+.borh9{
+    color: white;
+    padding-left: 800px;
+    padding-top: 150px;
+}
+.borh10{
+    color: white;
+    padding-left: 800px;
+    margin-top: 0.5rem;
+}
+.borh11{
+    color: white;
+    padding-left: 800px;
+    margin-top: 0.4rem;
+}
+.borh12{
+    color: white;
+    padding-left: 800px;
+    margin-top: 0.4rem;
+}
+.borh13{
+    height: 250px;
+    width: 300px;
+    background-image:url("mobilenet.jpg");
+    background-size: cover;
+    position:absolute;
+    top: 1000px;
+    left: 370px;
+    
+}
+.border3{
+    border: 0.3rem solid rgb(37, 31, 31);
+}
+.borh14{
+    height: 400px;
+    background-color: #0f1111;
+}
+.borh16{
+    color: white;
+    padding-left: 300px;
+    padding-top: 120px;
+}
+.borh17{
+    color: white;
+    padding-left: 300px;
+    margin-top: 0.9rem;
+}
+.borh18{
+    color: white;
+    padding-left: 300px;
+    margin-top: 0.4rem;
+}
+.border4{
+    border: 0.3rem solid rgb(37, 31, 31);
+}
+.borh19{
+    height: 400px;
+    background-color: #0f1111;
+}
+.borh20{
+    color: white;
+    padding-left: 800px;
+    padding-top: 120px;
+}
+.borh21{
+    color: white;
+    padding-left: 800px;
+    margin-top: 0.9rem;
+}
+.borh22{
+    color: white;
+    padding-left: 800px;
+    margin-top: 0.2rem;
+}
+.borh23{
+    color: white;
+    padding-left: 800px;
+    margin-top: 0.2rem;
+}
+.borh24{
+    height: 300px;
+    width: 400px;
+    background-image: url("netchild.png");
+    background-size: cover;
+    position: absolute;
+    top:1780px;
+    left: 355px;
+}
+.border5{
+    border: 0.3rem solid rgb(37, 31, 31);
+}
+.borh25{
+    height: 700px;
+    background-color: #0f1111;
+    
+}
+.borh26{
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    
+}
+.but31{
+    height: 40px;
+    width: 800px;
+    color: white;
+    background-color: #292d33;
+    margin-left: 420px;
+    margin-top: 10px;
+    text-align: left;
+    padding-left:20px;
+    padding-top: 20px;
+}
+.but31:hover{
+    /* border: 2px solid bisque; */
+    background-color: slategrey;
+}
+.but32{
+    height: 40px;
+    width: 800px;
+    color: white;
+    background-color: #292d33;
+    margin-left: 420px;
+    margin-top: 10px;
+    text-align: left;
+    padding-left:20px;
+    padding-top: 20px;
+}
+.but32:hover{
+    /* border: 2px solid bisque; */
+    background-color: slategrey;
+}
+.but33{
+    height: 40px;
+    width: 800px;
+    color: white;
+    background-color: #292d33;
+    margin-left: 420px;
+    margin-top: 10px;
+    text-align: left;
+    padding-left:20px;
+    padding-top: 20px;
+}
+.but33:hover{
+    /* border: 2px solid bisque; */
+    background-color: slategrey;
+}
+.but34{
+    height: 40px;
+    width: 800px;
+    color: white;
+    background-color: #292d33;
+    margin-left: 420px;
+    margin-top: 10px;
+    text-align: left;
+    padding-left:20px;
+    padding-top: 20px;
+}
+.but34:hover{
+    /* border: 2px solid bisque; */
+    background-color: slategrey;
+}
+.but35{
+    height: 40px;
+    width: 800px;
+    color: white;
+    background-color: #292d33;
+    margin-left: 420px;
+    margin-top: 10px;
+    text-align: left;
+    padding-left:20px;
+    padding-top: 20px;
+}
+.but35:hover{
+    /* border: 2px solid bisque; */
+    background-color: slategrey;
+}
+.but36{
+    height: 40px;
+    width: 800px;
+    color: white;
+    background-color: #292d33;
+    margin-left: 420px;
+    margin-top: 10px;
+    text-align: left;
+    padding-left:20px;
+    padding-top: 20px;
+}
+.but36:hover{
+    /* border: 2px solid bisque; */
+    background-color: slategrey;
+}
+.borh27{
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 35px;
+}
+.borh28{
+    height: 38px;
+    width: 300px;
+    background-color: #0f1111;
+    color: white;
+    border-radius: 0.2rem;
+    border: 0.1px solid white;
+    padding-left: 4px;
+    margin-left: 530px;
+    margin-top: 15px;
+}
+.borh29{
+    height: 42px;
+    width: 150px;
+    background-color: red;
+    color: white;
+    border-radius: 0.2rem;
+    border: 0.1px solid red;
+    
+}
+.border6{
+    border: 0.3rem solid rgb(37, 31, 31);
+}
+.borh30{
+    height: 300px;
+    background-color: #0f1111;
+    /* display: flex;
+    justify-content: space-evenly; */
+}
+.borh31{
+    color: white;
+    margin-left:300px;
+    /* margin-top: 25px; */
+    padding-top: 3rem;
+}
+.borh32{
+    color: white;
+    padding-top: 20px;
+}
+.borh32 p{
+    padding:2px;
+}
+.borh33{
+    color: white;
+    padding-top: 20px;
+}
+.borh33 p{
+    padding:2px;
+}
+.borh34{
+    color: white;
+    padding-top: 20px;
+}
+.borh34 p{
+    padding:2px;
+}
+.borh35{
+    color: white;
+    padding-top: 20px;
+}
+.borh35 p{
+    padding:2px;
+}
+
+.borh36{
+    display: flex;
+    justify-content: space-evenly;
+}
+
